@@ -199,8 +199,8 @@ variants_to_check: list[int] = [
 ]
 
 pyro_client: Client = Client(
-    "",
-    api_id=6,
+    name="",
+    api_id=0,
     api_hash="",
     bot_token=""
 )
