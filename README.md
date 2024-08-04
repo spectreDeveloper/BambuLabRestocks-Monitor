@@ -71,7 +71,7 @@ Fill in the details for the Pyrogram client with the following:
       bot_token="your_bot_token"   # Replace with your bot token
   )
 
-## Getting Your API ID and Token for Telegram ###
+## Getting Your API ID and Token for Telegram 🟦 ###
 
 - Create a new application on the [Telegram API development tools](https://my.telegram.org) to get your API ID and API hash.
 - Create a new bot using [BotFather](https://t.me/botfather) on Telegram to get your bot token.
