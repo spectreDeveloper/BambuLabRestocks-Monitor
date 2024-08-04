@@ -354,7 +354,7 @@ class BambulabRequests:
             await asyncio.sleep(2)
         await asyncio.gather(*tasks)
     
-async def get_aiohttp_session(family: int = socket.AF_INET6) -> aiohttp.ClientSession:
+async def get_aiohttp_session(family: int = socket.AF_INET) -> aiohttp.ClientSession:
     aiohttp_session = aiohttp.ClientSession(
         connector=aiohttp.TCPConnector(
             family=family,
