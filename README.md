@@ -4,7 +4,7 @@ This project was originally created for fun months ago when the BambuLab A1 was 
 
 This is the first release, but if the project is adopted by the BambuLab community members, I will update and optimize it in the future.
 
-### BOT EXAMPLE PICTURES ###
+### BOT EXAMPLE PICTURES :D ###
 
 ![Monitor Running](https://telegra.ph/file/6c2b8b7d5e2aa13bf71a1.jpg)
 ![Telegram Results](https://telegra.ph/file/e3e09672497806d27ac33.jpg)
